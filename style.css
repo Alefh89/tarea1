@@ -1,0 +1,43 @@
+:root {
+  --color1: #ffff;
+  --color2: #18afd3;
+}
+
+header {
+  background-color: var(--color1);
+}
+.reqAppoint {
+  background-color: var(--color2);
+  border-radius: 10px;
+}
+
+.reqAppoint span {
+  color: var(--color1);
+}
+.container i {
+  background-color: var(--color2);
+  color: var(--color1);
+  padding: 2px;
+}
+
+.contDoctor{
+    margin-bottom: 20px;
+}
+
+.about{
+    line-height: 1.5em;
+}
+
+.icon{
+    
+    background-color: black !important;
+    color: white !important;
+    
+    
+}
+
+.test{
+  width:100%;
+  height: 100px;
+  background-color: lightcoral;
+}
